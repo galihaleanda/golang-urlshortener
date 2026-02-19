@@ -2,6 +2,8 @@
 
 The frontend for this project is maintained separately:
 - #### Repository: https://github.com/galihaleandaaa/url-shortener-frontend
+<br>
+
 
 ## 🔹 Installation
 
@@ -15,6 +17,7 @@ cd golang-urlshortener
 ```bash
 go mod tidy
 ```
+<br>
 
 ## ⚙️ Configuration
 
@@ -29,6 +32,7 @@ DB_NAME=url_shortener
 DB_SSLMODE=disable
 PORT=8080
 ```
+<br>
 
 ## 🗄 Database Setup
 Create the PostgreSQL database:
@@ -48,6 +52,7 @@ CREATE TABLE urls (
     created_at TIMESTAMP DEFAULT NOW()
 );
 ```
+<br>
 
 ## ▶️ Running the Server
 ```bash
@@ -58,6 +63,7 @@ go run main.go
 Server will start at
 http://localhost:8080
 ```
+<br>
 
 ## 📡 API Endpoints
 
@@ -104,6 +110,7 @@ Response
   "expires_at": "2026-02-20T14:59:29Z"
 }
 ```
+<br>
 
 ## 🧪 Example Usage
 
@@ -119,6 +126,8 @@ http://localhost:8080/a1B2c3
 
 #### Check Analytics
 curl http://localhost:8080/analytics/a1B2c3
+
+<br>
 
 ## 📝 Notes
 
