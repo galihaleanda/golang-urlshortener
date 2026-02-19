@@ -1,3 +1,8 @@
+## 🌐 Frontend Repository
+
+The frontend for this project is maintained separately:
+- #### Repository: https://github.com/galihaleandaaa/url-shortener-frontend
+
 ## 🔹 Installation
 
 ### 1️⃣ Clone Repository
