@@ -1,7 +1,7 @@
 ## 🌐 Frontend Repository
 
 The frontend for this project is maintained separately:
-- #### Repository: https://github.com/galihaleandaaa/url-shortener-frontend
+- #### Repository: https://github.com/galihaleanda/url-shortener-frontend
 <br>
 
 
